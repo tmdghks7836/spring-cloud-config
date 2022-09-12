@@ -1,4 +1,4 @@
 token:
   expiration_time: 86400000
-  secret: changed_token
+  secret: token_dev
 
