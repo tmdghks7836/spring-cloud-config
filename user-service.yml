@@ -1,9 +1,6 @@
-token:
-  expiration_time: 86400000
-  secret: token_default_changed
 spring:
   datasource:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}de8fad0dc55ec60a25177b699b24b9c9c9e308c0f2d334da63205b40be5ccb29'
+    password: '{cipher}AQBlegfyZTdPx5VkTP0RTxnd5+8NZA2QS/AspKKULwBZbRDws6s2zG3M9YLn5JKsP3ftQPc0sE4SmmtYioOy+sUI8SmW6LbuT4xVQuBte22bBSMDAvISuVnUBxJT6SZ8RlyWdnM+7u1r0TmFS2YwiIx92uEjgl2r7Xx+OoySQKji1XYBHfnNQBW0WmA7dJReYcuoeoJ3w5ZtYJnKuuYRcbPqaVx86GXWTnrp8CrvdHGI6erER0r51P33Vb87TPqJpGJbkV2DkphOgNPfwPBms/esSdEeC7DU6OUUhQ1GT8Am3+S8a0J2HyLpN3CzDJhtUXAZZpZJxTOg7yAsSBsb3xUvsHgH3Z8RoGalKen2Nvi5Ibq2FinL00r1E2mSd+nfSzw='
