@@ -3,4 +3,4 @@ token:
   secret: "not_encryption_token222"
 
 order_service:
-  url: 'http://127.0.0.1:7000/order-service/%s/orders'
+  url: 'http://order-service/%s/orders'
