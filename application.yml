@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: "not_encryption_token"
+  secret: "not_encryption_token222"
 
 order_service:
   url: 'http://127.0.0.1:7000/order-service/%s/orders'
